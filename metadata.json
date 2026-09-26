@@ -1,0 +1,6 @@
+{
+  "name": "NetAdmin",
+  "description": "WiFi connected local network administrator portal with GitHub OAuth authentication, real-time connected devices discovery, and responsive React management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "NetAdmin - Local Network Admin & Device Manager",
+  "short_name": "NetAdmin",
+  "start_url": "./connected_devices_dashboard.html",
+  "display": "standalone",
+  "background_color": "#0a1128",
+  "theme_color": "#034078",
+  "description": "WiFi connected local network admin portal with GitHub OAuth and real-time device management.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='128' fill='%230a1128'/%3E%3Ccircle cx='256' cy='256' r='180' fill='%23001f54' stroke='%2300f0ff' stroke-width='16'/%3E%3Cpath d='M160 210a136 136 0 0 1 192 0M192 250a90 90 0 0 1 128 0M224 290a46 46 0 0 1 64 0M256 335h.01' stroke='%2300f0ff' stroke-width='24' stroke-linecap='round' fill='none'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
